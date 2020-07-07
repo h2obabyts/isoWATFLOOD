@@ -13,7 +13,7 @@ Stadnyk T., Delavau C., Kouwen N., Edwards T.W.D. 2013. Towards hydrological mod
 
 Stadnyk-Falcone, T.A. (2008). PhD thesis. http://hdl.handle.net/10012/3970
 #
-DEMO: To learn how to operate the code, and its functionality and output, we have provided a DEMO for this code. Please visit ucalgary.ca/labs/HAL to download the demo (as a 7z file), including instructions on running the code, and a PPT demonstrating its output and functionality.
+DEMO: To learn how to operate the code, and its functionality and output, we have provided a DEMO for this code. Download the demo here: https://drive.google.com/file/d/1O1KCqP7VqFN7O-QR5RsjsfmOF1dq5GE1/view?usp=sharing (as a 7z file). To start, please view the PDF presentation, and review the instructions for the DEMO.
 #
 MANUAL: a manual accompanies this upload of the code to describe the equations and inputs required. We highlly recommend you review the manual before testing the code.
 #
