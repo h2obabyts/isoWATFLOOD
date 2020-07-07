@@ -4,6 +4,7 @@ This code is developed to run with the hydrologic portion of the WATFLOOD mode, 
 WATFLOOD: Kouwen, 2016. WATFLOOD/CHARM Canadian Hydrological And Routing Model. 251p. http://www.civil.uwaterloo.ca/Watflood/downloads/manual16.pdf. Retrieved from http://www.civil.uwaterloo.ca/Watflood/index.htm 
 #
 RESOURCES: More information on the code, its capabilities, and function, see the following publications:
+
 Stadnyk, T.A. and Holmes, T. 2020. On the value of isotope-enabled hydrologic model calibration. Accepted in Hydrol. Sciences J.. doi: 10.1080/02626667.2020.1751847.
 
 Holmes, T. (2016). Assessing the Value of stable water isotopes in hydrologic modelling: a dual-isotope approach. M.Sc. Thesis, department of Civil Engineering, University of Manitoba. 200p. http://hdl.handle.net/1993/31724
